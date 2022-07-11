@@ -1,0 +1,6 @@
+framework module Pods_RxSwift_ToDoListApp {
+  umbrella header "Pods-RxSwift_ToDoListApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
